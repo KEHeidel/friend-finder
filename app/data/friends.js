@@ -1,82 +1,84 @@
+// array with friends, image, and survey answers
+
 var friendsArray = [
 {
-    "name":"friend1",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name":"Malcolm Reynolds",
+    "photo":"https://upload.wikimedia.org/wikipedia/en/1/13/MalReynoldsFirefly.JPG",
     "scores":[
-        5,
-        1,
-        4,
+        2,
+        3,
         4,
         5,
         1,
         2,
+        3,
+        3,
+        2,
+        5
+      ]
+  },
+  {
+    "name":"Zoe Alleyne Washburne",
+    "photo":"https://vignette.wikia.nocookie.net/firefly/images/1/10/Zoe.jpg/revision/latest/scale-to-width-down/340?cb=20080301064448",
+    "scores":[
+        3,
+        2,
+        1,
+        1,
+        5,
+        3,
+        3,
+        2,
+        4,
+        2
+      ]
+  },
+  {
+    "name":"Hoban Wash Washburne",
+    "photo":"https://vignette.wikia.nocookie.net/firefly/images/f/fa/Wash.jpg/revision/latest/scale-to-width-down/340?cb=20080301062346",
+    "scores":[
+        4,
         5,
         4,
+        2,
+        4,
+        4,
+        2,
+        4,
+        4,
+        3
+      ]
+  },
+  {
+    "name":"Simon Tam",
+    "photo":"https://vignette.wikia.nocookie.net/firefly/images/6/63/Simon2.jpg/revision/latest/scale-to-width-down/340?cb=20080308044029",
+    "scores":[
+        5,
+        1,
+        1,
+        1,
+        5,
+        1,
+        5,
+        3,
+        2,
         1
       ]
   },
   {
-    "name":"friend2",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name":"River Tam",
+    "photo":"https://vignette.wikia.nocookie.net/firefly/images/2/2c/River.jpg/revision/latest/scale-to-width-down/340?cb=20080301023737",
     "scores":[
         5,
-        1,
-        4,
         4,
         5,
-        1,
+        4,
         2,
         5,
-        4,
-        1
-      ]
-  },
-  {
-    "name":"friend3",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
+        3,
         5,
-        1,
-        4,
-        4,
-        5,
-        1,
-        2,
-        5,
-        4,
-        1
-      ]
-  },
-  {
-    "name":"friend4",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
-        5,
-        1,
-        4,
-        4,
-        5,
-        1,
-        2,
-        5,
-        4,
-        1
-      ]
-  },
-  {
-    "name":"friend5",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
-        5,
-        1,
-        4,
-        4,
-        5,
-        1,
-        2,
-        5,
-        4,
-        1
+        3,
+        5
       ]
   }
 ]
