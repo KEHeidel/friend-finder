@@ -1,14 +1,8 @@
-// ===============================================================================
-// DEPENDENCIES
-// We need to include the path package to get the correct file path for our html
-// ===============================================================================
+// dependencies
 var path = require("path");
 
-// ===============================================================================
-// LOAD DATA
-// We are linking our routes to a series of "data" sources.
-// These data sources hold arrays of information on table-data, waitinglist, etc.
-// ===============================================================================
+// load data
+// these data sources hold arrays of information
 
 module.exports = function(app) {
     
